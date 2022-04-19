@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saikisri97
 - 👀 I’m interested in = ML applications in SCM and Logistics.
 - 🌱 I’m currently learning  = [Azure DataBricks, MILP, SLP]
-- 💞️ I’m looking to collaborate on = Optimisation and Scheduling problems. 
+- 💞️ I’m looking to collaborate on = ML applications and Optimisation and Scheduling problems. 
 - 📫 How to reach me = LinkedIN : www.linkedin.com/in/saikiran-srivatsav-b6759810b
 
 <!---
